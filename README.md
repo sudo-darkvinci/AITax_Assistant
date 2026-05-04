@@ -14,7 +14,7 @@ An end-to-end Research Project Part B system that predicts high-risk tax deducti
 - Fully functional Streamlit web prototype
 
 ### Research Project
-- **Part B** – University of South Australia
+-  Adelaide University
 - Built on top of Part A scoping and literature review
 - Directly addresses supervisor feedback: working prototype, user simulation, hyperparameter tuning, and hot-pluggable data
 
